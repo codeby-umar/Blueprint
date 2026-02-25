@@ -1,0 +1,43 @@
+Hozirgi yilni ekranga chiqaradigan dastur tuz.
+
+Hozirgi oy va kunni alohida chiqar.
+
+Hozirgi soat va minutni chiqar.
+
+Foydalanuvchi tug‘ilgan yilini kiritsin, uning yoshini hisobla.
+
+Hozirgi sana DD-MM-YYYY formatda chiqsin.
+
+Hozirgi vaqt HH:MM:SS formatda chiqsin.
+
+🟡 O‘rta daraja
+
+Foydalanuvchi tug‘ilgan yil, oy, kun kiritsin — uning aniq yoshini hisobla.
+
+Bugungi sanaga 7 kun qo‘shib, yangi sanani chiqar.
+
+Bugungi sanadan 30 kun ayir.
+
+Foydalanuvchi kiritgan sana bilan bugungi sana orasidagi kunlar farqini top.
+
+2025-yil 1-yanvardan hozirgacha necha kun o‘tganini hisobla.
+
+Hozirgi haftaning nechanchi kuni ekanini chiqar (dushanba, seshanba va h.k).
+
+🔴 Qiyin daraja
+
+Foydalanuvchi tug‘ilgan sanani kiritsin — u necha kun yashaganini hisobla.
+
+Tug‘ilgan sanaga 10 000 kun qo‘shilganda qaysi sana bo‘lishini top.
+
+Hozirgi vaqtni 12 soatlik formatda chiqar (AM/PM bilan).
+
+Yangi yilgacha nechta kun qolganini hisobla.
+
+Foydalanuvchi kiritgan 2 ta sana orasidagi yil, oy va kun farqini alohida top.
+
+100 kun oldingi sana qaysi kun bo‘lganini top.
+
+Foydalanuvchi kiritgan sana haftaning qaysi kuniga to‘g‘ri kelishini aniqlash.
+
+Foydalanuvchi kiritgan yil kabisa (366 kunlik) yilmi yoki yo‘qmi tekshir.
