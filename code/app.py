@@ -9,6 +9,44 @@ import math
 # e - logarifm bu ham qonstanta
 
 
+
+
+
+# sum = math.sqrt(25)
+# print(sum)
+
+# sum = math.pow(2 , 3)
+# print(sum)
+
+
+# sum = math.fabs(-20)
+# print(sum)
+
+# sum = max(20 , 30 , 50 , 10 ,21)
+# print(sum)
+
+
+# sum = min(20 , 30 , 50 , 10 ,21)
+# print(sum)
+
+
+# print(math.pi)
+# print(math.e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # a = int(input("Soz kiriting :"))
 
 # if a > 100:

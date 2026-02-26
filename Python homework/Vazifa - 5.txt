@@ -202,3 +202,43 @@ Dinamik grafda online connectivity ni yeching.
 
 Parallel binary search algoritmini yozing.
 
+
+
+
+
+1-qism: Login tekshirish
+Dastur boshida:
+Login kiritsin
+Parol kiritsin
+Shartlar:
+Login noto‘g‘ri bo‘lsa → “Foydalanuvchi topilmadi”
+Login to‘g‘ri, parol noto‘g‘ri bo‘lsa → “Parol xato”
+Ikkalasi to‘g‘ri bo‘lsa → “Xush kelibsiz”
+(Login: user123
+Parol: 2024 deb tasavvur qiling)
+🟡 2-qism: ATM menyu
+Agar login muvaffaqiyatli bo‘lsa, foydalanuvchiga menyu chiqadi:
+1 — Balansni ko‘rish
+2 — Pul yechish
+3 — Pul qo‘shish
+4 — Parolni o‘zgartirish
+Kartada boshlang‘ich balans: 500000 so‘m
+🔵 3-qism: Amal bajarish
+✅ 1 — Balans
+Balansni ekranga chiqaring.
+✅ 2 — Pul yechish
+Yechiladigan summani kiritsin.
+Agar balansdan ko‘p bo‘lsa → “Yetarli mablag‘ yo‘q”
+Aks holda yangi balansni chiqaring.
+✅ 3 — Pul qo‘shish
+Qo‘shiladigan summani kiritsin.
+Agar manfiy son kiritsa → “Xato summa”
+Aks holda balansga qo‘shib chiqaring.
+✅ 4 — Parol o‘zgartirish
+Eski parolni qayta so‘rasin.
+To‘g‘ri bo‘lsa yangi parol kiritsin.
+Noto‘g‘ri bo‘lsa → “Parol tasdiqlanmadi”
+🔴 Qo‘shimcha qiyinlashtirish (bonus)
+Agar yechish summasi 100000 dan katta bo‘lsa → 1% komissiya ushlansin.
+Agar balans 0 bo‘lsa → “Hisob bloklandi”.
+Agar foydalanuvchi menyuda 1–4 dan boshqa son kiritsa → “Noto‘g‘ri tanlov”.
