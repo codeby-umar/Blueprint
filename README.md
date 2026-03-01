@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/assets/banner.png" alt="Python Algorithms & LeetCode Solutions Banner" width="100%" />
+  <img src="https://static-assets.codecademy.com/assets/course-landing-page/meta/16x9/sorting-algorithms.jpg" alt="Python Algorithms & LeetCode Solutions Banner" width="100%" />
 </p>
 
 <h1 align="center">Python Algorithms & LeetCode Solutions</h1>
