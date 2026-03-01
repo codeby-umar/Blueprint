@@ -74,3 +74,22 @@ import math
 #     print(a - b)
 # else:
 #     print("Xatolik yuz berdi")
+
+
+
+import math
+
+
+# a=12
+# b=23
+# c=13
+# print(a,b,c)
+# print(math.max)
+
+
+# login = str(input("Login kiriitng :"))
+
+# if login == "admin":
+#     print("Xush kelibsiz admin")
+# else:
+#     print("Siz saytga kira olmaysiz")

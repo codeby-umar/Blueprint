@@ -242,3 +242,32 @@ Noto‘g‘ri bo‘lsa → “Parol tasdiqlanmadi”
 Agar yechish summasi 100000 dan katta bo‘lsa → 1% komissiya ushlansin.
 Agar balans 0 bo‘lsa → “Hisob bloklandi”.
 Agar foydalanuvchi menyuda 1–4 dan boshqa son kiritsa → “Noto‘g‘ri tanlov”.
+
+
+
+
+
+
+
+Uchta son kiriting. Eng kattasini aniqlang.
+Son kiriting. Agar u 4 xonali bo‘lsa kvadrat ildizini toping.
+Son kiriting. Agar oxirgi raqami 5 bo‘lsa kvadratini toping.
+Son kiriting. Agar u to‘liq kvadrat bo‘lmasa yuqoriga yaxlitlang.
+Ikki son kiriting. Agar ular teng bo‘lsa kvadratini chiqaring.
+Son kiriting. Agar 7 ga bo‘linsa ildizini chiqaring.
+Son kiriting. Agar musbat va juft bo‘lsa kubini chiqaring.
+Son kiriting. Agar 1 dan 100 oralig‘ida bo‘lsa sinusini toping.
+Son kiriting. Agar 0 bo‘lsa “Nol son” chiqaring.
+Son kiriting. Agar manfiy bo‘lsa modulini, musbat bo‘lsa kvadrat ildizini chiqaring.
+
+Muhammad Umar, [26.02.2026 7:03]
+Login kiriting. Agar "admin" bo‘lsa “Xush kelibsiz admin” chiqsin.
+Parol kiriting. Agar "1234" bo‘lsa “To‘g‘ri parol” chiqsin.
+Login va parol kiriting. Ikkalasi to‘g‘ri bo‘lsa kirishga ruxsat bering.
+Telefon raqam kiriting. Agar uzunligi 9 ta raqam bo‘lsa “To‘g‘ri raqam”.
+Email kiriting. Agar ichida "@" bo‘lsa “Email to‘g‘ri”.
+Foydalanuvchi yosh kiritsin. 18 dan katta bo‘lsa saytga kirsin.
+Foydalanuvchi ism kiritsin. Agar ism bo‘sh bo‘lsa “Ism kiriting”.
+Parol kiriting. Agar 8 ta belgidan kam bo‘lsa “Parol juda qisqa”.
+Kartadagi pulni kiriting. Agar 0 dan katta bo‘lsa “Pul mavjud”.
+Ball kiriting. 60 dan yuqori bo‘lsa “O‘tdingiz”. 
