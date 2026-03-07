@@ -271,3 +271,53 @@ Foydalanuvchi ism kiritsin. Agar ism bo‘sh bo‘lsa “Ism kiriting”.
 Parol kiriting. Agar 8 ta belgidan kam bo‘lsa “Parol juda qisqa”.
 Kartadagi pulni kiriting. Agar 0 dan katta bo‘lsa “Pul mavjud”.
 Ball kiriting. 60 dan yuqori bo‘lsa “O‘tdingiz”. 
+
+
+
+
+
+
+
+Son kiriting. 10 dan katta bo‘lsa “Katta son”.
+Son kiriting. 0 ga teng bo‘lsa “Nol”.
+Ikki son teng bo‘lsa “Teng sonlar”.
+Ism uzunligi 3 harfdan kam bo‘lsa “Ism juda qisqa”.
+Sana 31 dan katta bo‘lsa “Xato sana”.
+Oy raqami 12 dan katta bo‘lsa “Xato oy”.
+Bahoni kiriting. 2 bo‘lsa “Yomon baho”.
+Rang kiriting. Agar “qora” bo‘lsa “Dark mode”.
+Parol va tasdiq parol teng bo‘lsa “Tasdiqlandi”.
+Foydalanuvchi “start” deb yozsa “Dastur boshlandi”.
+[26.02.2026 7:05] Muhammad Umar: Son kiriting. Agar 5 ga teng bo‘lmasa “Boshqa son”.
+Parol noto‘g‘ri bo‘lsa “Qayta urinib ko‘ring”.
+Ikki son kiriting. Agar birinchisi 0 bo‘lsa “Bo‘lish mumkin emas”.
+Sana 29-fevral bo‘lsa “Kabisa kuni”.
+Rang kiriting. Agar “yashil” bo‘lsa “Yurish mumkin”.
+Ism uzunligi 10 dan katta bo‘lsa “Uzun ism”.
+Internet tezligi 50 dan yuqori bo‘lsa “Tez internet”.
+Ball 100 bo‘lsa “Maksimal natija”.
+Foydalanuvchi “exit” yozsa “Dastur tugadi”.
+Kartada pul 0 bo‘lsa “Hisob bo‘sh”.
+[26.02.2026 7:06] Muhammad Umar: Login va parol kiriting.
+Login to‘g‘ri, parol noto‘g‘ri bo‘lsa alohida xabar.
+Ikkalasi ham noto‘g‘ri bo‘lsa boshqa xabar chiqsin.
+Yosh va jins kiriting.
+18+ va erkak bo‘lsa “Harbiy ro‘yxat”.
+18+ va ayol bo‘lsa “Ixtiyoriy xizmat”.
+3 ta son kiriting.
+Eng kattasini aniqlang (nested if bilan).
+Uchburchak 3 tomoni berilgan.
+U mavjudmi (uchburchak qoidasi bilan tekshiring).
+Bank kartadagi pul va xarid summasi kiriting.
+Agar pul yetmasa, nechta pul yetmayotganini chiqaring.
+2 ta son va amal (+, -, *, /) kiriting.
+Amalga qarab natija chiqaring.
+0 ga bo‘lishni tekshiring.
+Son kiriting.
+2 va 3 ga bo‘linsa “Super son”.
+Faqat bittasiga bo‘linsa boshqa xabar.
+Sana kiriting (kun, oy).
+Sana to‘g‘riligini tekshiring (31 kundan oshmasin, oy 12 dan oshmasin).
+Parol kiriting.
+8 belgidan uzun va ichida raqam bo‘lsa “Kuchli”.
+Aks holda “Kuchsiz”.
