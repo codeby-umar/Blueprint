@@ -93,3 +93,131 @@ import math
 #     print("Xush kelibsiz admin")
 # else:
 #     print("Siz saytga kira olmaysiz")
+
+
+
+
+
+
+
+
+
+# ism' = 20
+# yosh-dsads = 'dsjkdj'
+# _ism_Famila = "sjaisja"
+# yosh_Age = "sabjsah"
+
+# "" , . ; 
+
+
+
+
+
+# ism = input("Soz kiriting : ")
+# print(type(ism))
+
+
+# ism = "sajkhsjajhsja"
+# ism = str("dsghdgshdsgdjs")
+
+
+
+# age  = int(input("Yoshingizni kiriting :"))
+
+# print(age)
+# jami = age
+# print(jami)
+
+
+
+
+
+
+
+# yosh = int(input("Yoshinginzi kiriting :"))
+# yosh1 = 18
+
+# if yosh > yosh1:
+#     print("Sizning yoshingiz katta")  # True
+# elif yosh == yosh1:
+#     print("Sizning yoshingiz normal") # True
+# else:
+#     print("Sizning yoshingiz kichik") # True
+
+
+
+# a = 40
+# b = 50
+# c = 2
+# jami = int(a / c) + int(b / 2)
+# print(jami)
+
+
+
+
+
+
+
+
+green = "#00ff00" , "#000" , "#fff"
+print(type(green))
+
+
+# string , number , True , False , complex , float
+
+# Vagetables = [] #list
+# print(type(Vagetables))
+
+
+
+# get_Cars = ["Damas" , "Malibu" , "Matiz" , "Jentra" , "Tico"]
+# print(get_Cars)
+# get_Damas = get_Cars[0]
+# print(f"Sizning mashinnangiz : {get_Damas}")
+
+
+
+# differnt = ["NIma gap" , 200 , True  , False] 
+# print(differnt)
+
+
+# vagatables = ["Olma" , "Banan" , "Shaftoli" , "Orik"]
+# print(vagatables)
+# get = vagatables[0 : 4]
+# print(get)
+
+
+# food = ["Manti" , "Somsa" , "Shorva" , "Osh"]
+# get_Food = food[-1]
+# print(get_Food)
+
+
+
+# matamatika = [200 , 100 , 500 , 32 , 66] # [] - list
+# hisoblang = matamatika[0] + matamatika[-1]
+# print(hisoblang)
+
+# ism , familya , age = "Shukurullo" , "Abduqoxorov" , 15
+
+
+
+
+
+
+
+
+get_Name = ["Umar" , "Ollayor" , "Rozimuhammad" , "shjsa" , True , False , 30 , 40 , 50.3]
+get_FirstName = get_Name[1:3]
+print(get_FirstName)
+
+
+
+
+
+
+
+
+
+
+
+
